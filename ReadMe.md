@@ -1,5 +1,52 @@
 # 💫 About Me:
-# Hi there! 👋 I'm Raza Umer<br><br>### 💻 Software Engineer | Team Lead | Full-Stack Developer<br><br>🚀 Passionate about building scalable web applications, robust backend systems, and innovative software solutions.<br><br>I'm a **Software Engineer and Team Lead – Web Applications** with **7+ years of experience** in software development, specializing in full-stack development, backend architecture, API integrations, and cloud infrastructure.<br><br>I enjoy solving complex technical challenges, optimizing application performance, and leading development teams to deliver reliable, high-quality solutions.<br><br>### 🛠️ Tech Stack<br><br>- **Frontend:** React.js, Next.js, JavaScript, TypeScript, HTML5, CSS3<br>- **Backend:** Node.js, Express.js, NestJS, PHP<br>- **Databases:** MySQL, PostgreSQL, MongoDB, MariaDB<br>- **DevOps & Cloud:** Docker, Linux, Nginx, PM2, DigitalOcean, AWS<br>- **E-Commerce:** OpenCart, Journal Theme, Custom Extensions<br>- **APIs & Integrations:** REST APIs, GraphQL, MQTT, WebSockets, Swagger/OpenAPI<br>- **Tools:** Git, GitHub, Postman, Sequelize<br><br>### 🚀 What I Do<br><br>- 🔹 Design and develop scalable full-stack applications<br>- 🔹 Build RESTful APIs, microservices, and real-time systems<br>- 🔹 Lead development teams and manage technical projects<br>- 🔹 Work with cloud infrastructure, Docker, and CI/CD workflows<br>- 🔹 Develop transit technology and digital signage platforms<br>- 🔹 Optimize databases, server performance, and application security<br>- 🔹 Build custom OpenCart extensions and e-commerce solutions<br><br>### 🌱 Currently Exploring<br><br>- 🤖 AI-powered applications and automation<br>- ☁️ Cloud architecture and DevOps<br>- ⚡ High-performance backend systems<br>- 📊 Real-time monitoring and analytics platforms<br><br>### 💡 My Philosophy<br><br>> "Great software isn't just about writing code — it's about solving real problems, building reliable systems, and creating meaningful impact."<br><br>### 🤝 Let's Connect<br><br>I'm always interested in collaborating on innovative projects, exploring new technologies, and sharing knowledge with fellow developers.<br><br>📍 Lahore, Pakistan<br><br>⭐ **Always learning. Always building. Always improving.**
+# Hi there! 👋 I’m Raza Umer
+
+# 💻 Software Engineer | Team Lead | Full-Stack Developer
+
+# 🚀 Passionate about building scalable web applications, robust backend systems, and innovative software solutions.
+
+I’m a Software Engineer and Team Lead – Web Applications with 7+ years of experience in software development, specializing in full-stack development, backend architecture, API integrations, and cloud infrastructure.
+
+I enjoy solving complex technical challenges, optimizing application performance, and leading development teams to deliver reliable, high-quality solutions.
+
+# 🛠️ Tech Stack
+
+- Frontend: React.js, Next.js, JavaScript, TypeScript, HTML5, CSS3
+- Backend: Node.js, Express.js, NestJS, PHP
+- Databases: MySQL, PostgreSQL, MongoDB, MariaDB
+- DevOps & Cloud: Docker, Linux, Nginx, PM2, DigitalOcean, AWS
+- E-Commerce: OpenCart, Journal Theme, Custom Extensions
+- APIs & Integrations: REST APIs, GraphQL, MQTT, WebSockets, Swagger/OpenAPI
+- Tools: Git, GitHub, Postman, Sequelize
+
+# 🚀 What I Do
+
+- 🔹 Design and develop scalable full-stack applications
+- 🔹 Build RESTful APIs, microservices, and real-time systems
+- 🔹 Lead development teams and manage technical projects
+- 🔹 Work with cloud infrastructure, Docker, and CI/CD workflows
+- 🔹 Develop transit technology and digital signage platforms
+- 🔹 Optimize databases, server performance, and application security
+- 🔹 Build custom OpenCart extensions and e-commerce solutions
+
+# 🌱 Currently Exploring
+
+- 🤖 AI-powered applications and automation
+- ☁️ Cloud architecture and DevOps
+- ⚡ High-performance backend systems
+- 📊 Real-time monitoring and analytics platforms
+
+# 💡 My Philosophy
+
+ “Great software isn’t just about writing code — it’s about solving real problems, building reliable systems, and creating meaningful impact.”
+
+# 🤝 Let’s Connect
+
+I’m always interested in collaborating on innovative projects, exploring new technologies, and sharing knowledge with fellow developers.
+
+# 📍 Lahore, Pakistan
+
+# ⭐ Always learning. Always building. Always improving.
 
 
 ## 🌐 Socials:
